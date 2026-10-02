@@ -1,0 +1,11 @@
+D:\LAB_OOSD\LAB4\EShopping\EShopping\obj\Debug\EShopping.csproj.AssemblyReference.cache
+D:\LAB_OOSD\LAB4\EShopping\EShopping\obj\Debug\EShopping.FrmSanPham.resources
+D:\LAB_OOSD\LAB4\EShopping\EShopping\obj\Debug\EShopping.Properties.Resources.resources
+D:\LAB_OOSD\LAB4\EShopping\EShopping\obj\Debug\EShopping.csproj.GenerateResource.cache
+D:\LAB_OOSD\LAB4\EShopping\EShopping\obj\Debug\EShopping.csproj.CoreCompileInputs.cache
+D:\LAB_OOSD\LAB4\EShopping\EShopping\bin\Debug\EShopping.exe.config
+D:\LAB_OOSD\LAB4\EShopping\EShopping\bin\Debug\EShopping.exe
+D:\LAB_OOSD\LAB4\EShopping\EShopping\bin\Debug\EShopping.pdb
+D:\LAB_OOSD\LAB4\EShopping\EShopping\obj\Debug\EShopping.exe
+D:\LAB_OOSD\LAB4\EShopping\EShopping\obj\Debug\EShopping.pdb
+D:\LAB_OOSD\LAB4\EShopping\EShopping\obj\Debug\EShopping.FrmThemSanPham.resources
